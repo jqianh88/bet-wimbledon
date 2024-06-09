@@ -2,6 +2,25 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
+# BetWimbledon Specific Features and Development
+
+- Login and signup
+- Daily Match ups
+- Bet on matches
+- Automatically tracks your P&L
+- Provides warning when at a loss
+- Can set specific limit for amount spent on betting and loss
+- Secure connection between your finances, banking, and the app
+
+# BetWimbledon Breakdown of pages/components
+
+- Entry
+- Login
+- Signup
+- Settings
+- Accounting
+- tbd...
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -25,3 +44,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
